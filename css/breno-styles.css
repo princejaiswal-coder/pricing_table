@@ -1,0 +1,245 @@
+/*PRICE TABLE STYLES CSS*/
+/*=====================
+01. PRICE TABLE STYLE 1 CSS
+02. PRICE TABLE STYLE 2 CSS
+03. PRICE TABLE STYLE 3 CSS
+04. PRICE TABLE STYLE 4 CSS
+05. PRICE TABLE STYLE 5 CSS
+06. PRICE TABLE STYLE 6 CSS
+07. PRICE TABLE STYLE 7 CSS
+08. PRICE TABLE STYLE 8 CSS
+09. PRICE TABLE STYLE 9 CSS
+10. PRICE TABLE STYLE 10 CSS
+=======================*/
+
+/*=========================================
+            01. PRICE TABLE STYLE 1 CSS
+============================================*/
+
+.price-table-style-1 {position: relative;border-radius: 5px;margin-bottom: 30px;padding-bottom: 40px;background: #fff;background-repeat: no-repeat;background-size: 100% auto;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 2px 5px -2px rgba(123, 127, 138, 0.15);box-shadow: 0 2px 5px -2px rgba(123, 127, 138, 0.15);}
+.price-table-style-1:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-1 .price-text h2 {font-size: 40px;padding: 2rem 0;margin-bottom: 0;color: #fff;}
+.price-table-style-1 .price-text h2 .price-badge {font-size: 14px;margin-left: 0.2rem;font-weight: 400;}
+.price-table-style-1 .price-title {min-width: 65.5%;margin: 0 auto 35px 82px;text-align: left;padding: 8px 20px;border-radius: 25px 0 0 25px;background: #fff;-webkit-box-shadow: 0 2px 5px -2px rgba(123, 127, 138, 0.15);box-shadow: 0 2px 5px -2px rgba(123, 127, 138, 0.15);}
+.price-table-style-1 .price-title h4 {font-size: 14px;font-weight: 500;margin-bottom: 0;color: #111;}
+.price-table-style-1 .price-list {margin-bottom: 25px;}
+.price-table-style-1 .price-list li {margin-bottom: 10px;font-size: 14px;}
+.price-table-style-1 .price-list li:last-child {margin-bottom: 0px;}
+.price-table-style-1 .primary-button {padding: 10px 30px;display: inline-block;text-transform: capitalize;text-align: center;border-radius: 5px;font-weight: 500;border: 1px solid ;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;}
+.price-table-style-1.box1 {background-image: url('../img/shape-1.png');}
+.price-table-style-1.box2 {background-image: url('../img/shape-2.png');}
+.price-table-style-1.box3 {background-image: url('../img/shape-3.png');}
+.price-table-style-1.box1 .primary-button {border-color: #a29afd;color: #a29afd;background: #fff;-webkit-box-shadow: 0 5px 20px 0 rgba(162, 154, 253, 0.3);box-shadow: 0 5px 20px 0 rgba(162, 154, 253, 0.3);}
+.price-table-style-1.box1 .primary-button:hover {background: #a29afd;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(162, 154, 253, 0.4);box-shadow: 0 10px 20px 0 rgba(162, 154, 253, 0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-1.box2 .primary-button {border-color: #00b894;color: #00b894;background: #fff;-webkit-box-shadow: 0 5px 20px 0 rgba(0, 184, 148,0.3);box-shadow: 0 5px 20px 0 rgba(0, 184, 148,0.3);}
+.price-table-style-1.box2 .primary-button:hover {background: #00b894;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(0, 184, 148,0.4);box-shadow: 0 10px 20px 0 rgba(0, 184, 148,0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-1.box3 .primary-button {border-color: #e27055;color: #e27055;background: #fff;-webkit-box-shadow: 0 5px 20px 0 rgba(226, 112, 85,0.3);box-shadow: 0 5px 20px 0 rgba(226, 112, 85,0.3);}
+.price-table-style-1.box3 .primary-button:hover {background: #e27055;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(226, 112, 85,0.4);box-shadow: 0 10px 20px 0 rgba(226, 112, 85,0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+
+/*=========================================
+            02. PRICE TABLE STYLE 2 CSS 
+============================================*/
+
+.price-table-style-2 {position: relative;margin-bottom: 30px;padding-bottom: 40px;background: #fff;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 2px 5px -2px rgba(123, 127, 138, 0.15);box-shadow: 0 2px 5px -2px rgba(123, 127, 138, 0.15);}
+.price-table-style-2:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-2 .price-text {width: 50%;margin: 0 auto 30px;background: #eef5ff;}
+.price-table-style-2 .price-text h2 {font-size: 50px;padding: 2rem 0;margin-bottom: 0;line-height: 0.8;color: #111;}
+.price-table-style-2 .price-text h2 .price-badge {display: inline-block;width: 100%;text-transform: uppercase;font-size: 14px;font-weight: 500;}
+.price-table-style-2 .price-list {margin-bottom: 25px;}
+.price-table-style-2 .price-list li {margin-bottom: 10px;font-size: 14px;}
+.price-table-style-2 .price-list li:last-child {margin-bottom: 0px;}
+.price-table-style-2 .primary-button {padding: 6px 25px;display: inline-block;text-transform: uppercase;text-align: center;font-size: 16px;font-weight: 500;background: #fff;border: 1px solid #d9d9d9;color: #fb3b3a;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;}
+.price-table-style-2 .primary-button:hover {background: #fb3b3a;color: #fff;}
+.price-table-style-2 .default-button {padding: 6px 25px;display: inline-block;text-transform: uppercase;text-align: center;border: 1px solid #fb3b3a;background: #fb3b3a;color: #fff;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;}
+.price-table-style-2 .default-button:hover {background: #fff;color: #fb3b3a;}
+.price-table-style-2.active .price-text {background: #fb3b3a;}
+.price-table-style-2.active .price-text  h2 {color: #fff;}
+
+/*=========================================
+            03. PRICE TABLE STYLE 3 CSS
+============================================*/
+
+.price-table-style-3 {position: relative;border-radius: 5px;margin-bottom: 30px;padding-bottom: 40px;background: #fff;background-repeat: no-repeat;background-size: 100% auto;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 2px 5px -2px rgba(123, 127, 138, 0.15);box-shadow: 0 2px 5px -2px rgba(123, 127, 138, 0.15);}
+.price-table-style-3:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-3 .price-table-head {display: flex;padding: 20px 25px 25px;}
+.price-table-style-3 .price-title {flex: 1;align-self: center;text-align: left;}
+.price-table-style-3 .price-title h2 {font-size: 30px;text-transform: uppercase;margin-bottom: 0;color: #fff;}
+.price-table-style-3 .price-title .price-disc {font-size: 13px;text-transform: uppercase;color: #fff;}
+.price-table-style-3 .price-text {text-align: right;font-size: 26px;font-weight: 500;align-self: center;color: #fff;}
+.price-table-style-3 .price-list {margin-bottom: 30px;}
+.price-table-style-3 .price-list li {padding: 1rem;font-size: 14px;border-bottom: 1px solid #e6e2e2;}
+.price-table-style-3 .primary-button {padding: 10px 30px;display: inline-block;text-transform: capitalize;text-align: center;font-weight: 500;border-radius: 5px;border: 1px solid ;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;}
+.price-table-style-3.box1 .price-table-head {background: #f35764;}
+.price-table-style-3.box2 .price-table-head {background: #2bcc6f;}
+.price-table-style-3.box3 .price-table-head {background: #feb73b;}
+.price-table-style-3.box1 .primary-button {border-color: #f35764;color: #fff;background: #f35764;}
+.price-table-style-3.box1 .primary-button:hover {background: #fff;color: #f35764;-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-3.box2 .primary-button {border-color: #2bcc6f;color: #fff;background: #2bcc6f;}
+.price-table-style-3.box2 .primary-button:hover {background: #fff;color: #2bcc6f;-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-3.box3 .primary-button {border-color: #feb73b;color: #fff;background: #feb73b;}
+.price-table-style-3.box3 .primary-button:hover {background: #fff;color: #feb73b;-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+
+/*=========================================
+            04. PRICE TABLE STYLE 4 CSS
+============================================*/
+
+.price-table-style-4 {position: relative;text-align: center;margin-bottom: 30px;padding-top: 30px;padding-bottom: 50px;background: #fff;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);}
+.price-table-style-4:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-4 .price-title {position: relative;width: 50%;margin: -41px auto 30px;padding: 1rem;text-transform: uppercase;font-size: 14px;font-weight: 400;line-height: initial;color: #fff;background: #fb3b3a;}
+.price-table-style-4 .price-title::before {content: '';position: absolute;top: 0;left: -5px;z-index: -1;border-left: 5px solid transparent;border-right: 5px solid transparent;border-bottom: 10px solid #353232;}
+.price-table-style-4 .price-icon {display: inline-block;margin-bottom: 20px;position: relative;z-index: 1;}
+.price-table-style-4 .price-icon::before {content: '';position: absolute;top: 0;left: -10px;height: 40px;width: 40px;border-radius: 50%;z-index: -1;background: #fb3b3a;}
+.price-table-style-4 .price-icon i {text-align: center;color: #111;display: inline-block;font-size: 70px;}
+.price-table-style-4 .price-text {margin-bottom: 20px;}
+.price-table-style-4 .price-text h2 {font-size: 40px;}
+.price-table-style-4 .price-list {margin-bottom: 30px;}
+.price-table-style-4 .price-list li {margin-bottom: 10px;font-size: 14px;}
+.price-table-style-4 .price-list li:last-child {margin-bottom: 0px;}
+.price-table-style-4 .primary-button {padding: 10px 30px;display: inline-block;text-transform: uppercase;text-align: center;font-weight: 500;border-radius: 5px;background: #fb3b3a;color: #fff;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;-webkit-box-shadow: 0 5px 20px 0 rgba(251, 59, 58, 0.3);box-shadow: 0 5px 20px 0 rgba(251, 59, 58, 0.3);}
+.price-table-style-4 .primary-button:hover {background: #fb3b3a;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(251, 59, 58, 0.4);box-shadow: 0 10px 20px 0 rgba(251, 59, 58, 0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+
+
+/*=========================================
+            05. PRICE TABLE STYLE 5 CSS
+============================================*/
+
+.price-table-style-5 {position: relative;padding: 60px 20px;text-align: center;border-radius: 5px;margin-bottom: 30px;background: #fff;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);}
+.price-table-style-5:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-5 .price-icon {display: inline-block;margin-bottom: 30px;position: relative;height: 70px;width: 70px;line-height: 70px;padding: 10px;border-radius: 50px;background: #3763ea;-webkit-box-shadow: 0px 0px 0px 8px rgba(55, 99, 234, 0.2);box-shadow: 0px 0px 0px 8px rgba(55, 99, 234, 0.2);}
+.price-table-style-5 .price-icon i {text-align: center;color: #fff;display: inline-block;font-size: 2.5rem;}
+.price-table-style-5 .price-title {position: relative;margin-bottom: 20px;}
+.price-table-style-5 .price-title h2 {text-transform: capitalize;font-size: 30px;margin-bottom: 0;font-weight: 700;color: #111;}
+.price-table-style-5 .price-text {margin-bottom: 25px;}
+.price-table-style-5 .price-text h4 {font-size: 28px;font-weight: 700;margin-bottom: 0;color: #f4525b;}
+.price-table-style-5 .price-text h4 .price-badge {font-size: 0.8rem;font-weight: 500;color: #111;}
+.price-table-style-5 .price-list {margin-bottom: 20px;}
+.price-table-style-5 .price-list li {margin-bottom: 10px;font-size: 14px;}
+.price-table-style-5 .price-list li:last-child {margin-bottom: 0px;}
+.price-table-style-5 .primary-button {padding: 10px 30px;display: inline-block;text-transform: uppercase;text-align: center;font-weight: 500;border-radius: 5px;background: #3763ea;color: #fff;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;-webkit-box-shadow: 0 5px 20px 0 rgba(55, 99, 234, 0.3);box-shadow: 0 5px 20px 0 rgba(55, 99, 234, 0.3);}
+.price-table-style-5 .primary-button:hover {background: #3763ea;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(55, 99, 234, 0.4);box-shadow: 0 10px 20px 0 rgba(55, 99, 234, 0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-5 .default-button {padding: 10px 30px;display: inline-block;text-transform: uppercase;text-align: center;border-radius: 5px;background: #f4525b;color: #fff;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;-webkit-box-shadow: 0 5px 20px 0 rgba(244, 82, 91, 0.3);box-shadow: 0 5px 20px 0 rgba(244, 82, 91, 0.3);}
+.price-table-style-5 .default-button:hover {background: #f4525b;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(244, 82, 91, 0.4);box-shadow: 0 10px 20px 0 rgba(244, 82, 91, 0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-5.active {background: #3763ea;}
+.price-table-style-5.active .price-icon {background: #fff;-webkit-box-shadow: 0px 0px 0px 8px rgba(174, 194, 255, 0.5);box-shadow: 0px 0px 0px 8px rgba(174, 194, 255, 0.5);}
+.price-table-style-5.active .price-icon i {color: #3763ea}
+.price-table-style-5.active .price-title h2,
+.price-table-style-5.active .price-text h4,
+.price-table-style-5.active .price-text h4 .price-badge,
+.price-table-style-5.active .price-list li {color: #fff;}
+
+/*=========================================
+            06. PRICE TABLE STYLE 6 CSS
+============================================*/
+
+.price-table-style-6 {position: relative;text-align: center;margin-bottom: 30px;background: #fff;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);border: 3px solid #f5f8fa;}
+.price-table-style-6:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-6 .price-table-head {padding: 30px 20px;background: #f5f8fa;}
+.price-table-style-6 .price-title {position: relative;margin-bottom: 7px;}
+.price-table-style-6 .price-title h4 {text-transform: uppercase;font-size: 14px;font-weight: 400;margin-bottom: 0px;color: #485fb7;}
+.price-table-style-6 .price-text h2 {font-size: 40px;font-weight: 700;margin-bottom: 0;color: #111;}
+.price-table-style-6 .price-text h2 .price-badge {font-size: 14px;font-weight: 400;color: #9d9e9e;}
+.price-table-style-6 .price-table-cont {padding: 40px 30px;}
+.price-table-style-6 .price-list {margin-bottom: 40px;text-align: left;}
+.price-table-style-6 .price-list li {margin-bottom: 10px;font-size: 14px;}
+.price-table-style-6 .price-list li:last-child {margin-bottom: 0px;}
+.price-table-style-6 .price-list li i {margin-right: 7px;height: 15px;width: 15px;font-size: 12px;line-height: 13px;text-align: center;border-radius: 50%;color: #485fb7;border: 1px solid #485fb7;}
+.price-table-style-6 .primary-button {padding: 10px 30px;display: inline-block;text-transform: uppercase;text-align: center;font-weight: 500;border-radius: 30px;background: #f5f8fa;color: #485fb7;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;-webkit-box-shadow: 0 5px 20px 0 rgba(55, 99, 234, 0.3);box-shadow: 0 5px 20px 0 rgba(55, 99, 234, 0.3);}
+.price-table-style-6 .primary-button:hover {background: #f5f8fa;color: #485fb7;-webkit-box-shadow: 0 10px 20px 0 rgba(55, 99, 234, 0.4);box-shadow: 0 10px 20px 0 rgba(55, 99, 234, 0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-6 .default-button {padding: 10px 30px;display: inline-block;text-transform: uppercase;text-align: center;border-radius: 30px;background: #485fb7;color: #fff;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;-webkit-box-shadow: 0 5px 20px 0 rgba(72, 95, 183, 0.3);box-shadow: 0 5px 20px 0 rgba(72, 95, 183, 0.3);}
+.price-table-style-6 .default-button:hover {background: #485fb7;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(72, 95, 183, 0.4);box-shadow: 0 10px 20px 0 rgba(72, 95, 183, 0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-6.active {border-color: #485fb7;}
+.price-table-style-6.active .price-icon {background: #fff;-webkit-box-shadow: 0px 0px 0px 8px rgba(174, 194, 255, 0.5);box-shadow: 0px 0px 0px 8px rgba(174, 194, 255, 0.5);}
+.price-table-style-6.active .price-icon i {color: #485fb7}
+.price-table-style-6.active .price-table-head {background: #485fb7;}
+.price-table-style-6.active .price-title h4,
+.price-table-style-6.active .price-text h2,
+.price-table-style-6.active .price-text h2 .price-badge {color: #fff;}
+
+/*=========================================
+            07. PRICE TABLE STYLE 7 CSS
+============================================*/
+
+.price-table-style-7 {position: relative;text-align: center;border-radius: 5px;margin-bottom: 30px;padding-bottom: 50px;background: #fff;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);}
+.price-table-style-7:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-7 .price-icon {display: inline-block;margin: 40px 0;position: relative;height: 70px;width: 70px;line-height: 70px;padding: 10px;border-radius: 100% 100% 100% 0;background: #3763ea;-webkit-box-shadow: 0px 0px 0px 8px rgba(55, 99, 234, 0.2);box-shadow: 0px 0px 0px 8px rgba(55, 99, 234, 0.2);}
+.price-table-style-7 .price-icon i {text-align: center;color: #fff;display: inline-block;font-size: 36px;}
+.price-table-style-7 .price-title {position: relative;margin-bottom: 35px;}
+.price-table-style-7 .price-title h2 {text-transform: capitalize;font-size: 36px;font-weight: 700;margin-bottom: 0;color: #111;}
+.price-table-style-7 .price-text {margin-bottom: 35px;}
+.price-table-style-7 .price-text h4 {font-size: 30px;padding: 20px;font-weight: 700;color: #fff;background: #3763ea;}
+.price-table-style-7 .price-text h4 .price-badge {font-size: 14px;font-weight: 400;color: #fff;}
+.price-table-style-7 .price-list {margin-bottom: 30px;}
+.price-table-style-7 .price-list li {margin-bottom: 10px;font-size: 14px;}
+.price-table-style-7 .price-list li:last-child {margin-bottom: 0px;}
+.price-table-style-7 .primary-button {padding: 10px 30px;display: inline-block;text-transform: uppercase;text-align: center;font-weight: 500;border-radius: 5px;background: #3763ea;color: #fff;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;-webkit-box-shadow: 0 5px 20px 0 rgba(55, 99, 234, 0.3);box-shadow: 0 5px 20px 0 rgba(55, 99, 234, 0.3);}
+.price-table-style-7 .primary-button:hover {background: #3763ea;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(55, 99, 234, 0.4);box-shadow: 0 10px 20px 0 rgba(55, 99, 234, 0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+
+/*=========================================
+            08. PRICE TABLE STYLE 8 CSS
+============================================*/
+
+.price-table-style-8 {position: relative;border-radius: 5px;margin-bottom: 30px;background: #fff;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);}
+.price-table-style-8:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-8 .price-title {padding-top: 30px;}
+.price-table-style-8 .price-title h4 {font-size: 16px;font-weight: 500;margin-bottom: 0;text-transform: uppercase;}
+.price-table-style-8 .price-text {margin-bottom: 20px;margin-top: 5px;}
+.price-table-style-8 .price-text h2 {font-size: 70px;margin-bottom: 0;color: #fe2a5c;}
+.price-table-style-8 .price-text h2 i {font-size: 14px;font-weight: 400;color: #111;}
+.price-table-style-8 .price-text h2 .price-badge {font-size: 14px;font-weight: 400;color: #111;}
+.price-table-style-8 .price-list li {padding: 15px;font-size: 14px;border-top: 1px dashed #e6e2e2;}
+.price-table-style-8 .primary-button {padding: 18px 30px;display: inline-block;width: 100%;text-transform: capitalize;text-align: center;font-size: 16px;font-weight: 500;border-radius: 0 0 5px 5px;background: #313c50;color: #fff;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;-webkit-box-shadow: 0 5px 20px 0 rgba(38, 91, 251, 0.3);box-shadow: 0 5px 20px 0 rgba(38, 91, 251, 0.3);}
+.price-table-style-8 .primary-button:hover {background: #fe2a5c;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(38, 91, 251, 0.4);box-shadow: 0 10px 20px 0 rgba(38, 91, 251, 0.4);}
+.price-table-style-8.active {background: #fe2a5c;}
+.price-table-style-8.active .price-title h4,
+.price-table-style-8.active .price-text h2,
+.price-table-style-8.active .price-list li {color: #fff;}
+.price-table-style-8.active .price-list li {border-top: 1px dashed rgba(255,255,255,0.4);}
+.price-table-style-8.active .price-text h2 i,
+.price-table-style-8.active .price-text h2 .price-badge {color: rgba(255,255,255,0.7);}
+.price-table-style-8.active .primary-button {background: #d61e53;}
+
+/*=========================================
+            09. PRICE TABLE STYLE 9 CSS
+============================================*/
+
+.price-table-style-9 {position: relative;overflow: hidden;padding: 40px 20px 60px;text-align: center;margin-bottom: 30px;z-index: 0;background: #fff;border-top: 5px solid #de3d35;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);}
+.price-table-style-9::before {content: '';position: absolute;height: 200px;width: 200px;border-radius: 100%;top: -50px;left: 50%;transform: translate(-50%, 0);z-index: -1;background: #e4f1fd;-webkit-box-shadow: 0px 0px 0px 10px #e0ebf6, 0px 0px 0px 20px #e8f1f9, 0px 0px 0px 30px #f1f8ff;box-shadow: 0px 0px 0px 10px #e0ebf6, 0px 0px 0px 20px #e8f1f9, 0px 0px 0px 30px #f1f8ff;}
+.price-table-style-9:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-9 .price-badge {position: absolute;top: 0;left: 0;width: 100%;font-size: 14px;padding: 5px;text-transform: uppercase;font-weight: 400;background: #de3d35;color: #fff;}
+.price-table-style-9 .price-title {position: relative;margin-bottom: 20px;}
+.price-table-style-9 .price-title h2 {text-transform: capitalize;font-size: 36px;font-weight: 700;margin-bottom: 0;color: #111;}
+.price-table-style-9 .price-desc {margin-bottom: 20px;font-size: 14px;}
+.price-table-style-9 .price-text {margin-bottom: 25px;}
+.price-table-style-9 .price-text h4 {font-size: 30px;font-weight: 700;margin-bottom: 0;color: #de3d35;}
+.price-table-style-9 .primary-button {padding: 10px 30px;display: inline-block;text-transform: uppercase;text-align: center;border-radius: 5px;border: 2px solid #d9d9d9;color: #707070;background: #fff;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;-webkit-box-shadow: 0 5px 20px 0 rgba(55, 99, 234, 0.3);box-shadow: 0 5px 20px 0 rgba(55, 99, 234, 0.3);}
+.price-table-style-9 .primary-button:hover {background: #de3d35;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(55, 99, 234, 0.4);box-shadow: 0 10px 20px 0 rgba(55, 99, 234, 0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-9.active {padding: 70px 20px 50px;-webkit-transform: translateY(-25px);transform: translateY(-25px);}
+.price-table-style-9.active .primary-button {background: #de3d35;color: #fff;}
+
+/*=========================================
+            10. PRICE TABLE STYLE 10 CSS
+============================================*/
+
+.price-table-style-10 {position: relative;padding: 40px 20px 50px;text-align: center;border-radius: 5px;margin-bottom: 30px;overflow: hidden;background: #fff;-webkit-transition: all 0.25s ease;transition: all 0.25s ease;-webkit-box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);box-shadow: 0 20px 30px 0 rgba(40, 93, 251, 0.16);}
+.price-table-style-10:hover {-webkit-box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);box-shadow: 0 15px 30px 0 rgba(123, 127, 138, 0.30);-webkit-transform: translateY(-15px) scale(1.05);transform: translateY(-15px) scale(1.05);}
+.price-table-style-10 .price-badge {position: absolute;top: -15px;right: -50px;z-index: 1;padding: 35px 40px 10px 35px;font-size: 13px;line-height: 22px;-webkit-transform: rotate(45deg);transform: rotate(45deg);background: #265bfb;color: #fff;}
+.price-table-style-10 .price-title {position: absolute;top: 30px;left: 10px;writing-mode: tb-rl;padding-bottom: 5px;}
+.price-table-style-10 .price-title h4 {font-size: 3rem;font-weight: 500;margin-bottom: 0;color: #111;}
+.price-table-style-10 .price-icon {border-bottom: 5px solid #265bfb;padding: 7px;border-radius: 50%;display: inline-block;margin-bottom: 20px;}
+.price-table-style-10 .price-icon i {text-align: center;color: #fff;display: inline-block;border-radius: 50%;width: 60px;height: 60px;line-height: 60px;font-size: 25px;background: #265bfb;}
+.price-table-style-10 .price-text {margin-bottom: 20px;}
+.price-table-style-10 .price-text h2 {font-size: 40px;margin-bottom: 0;}
+.price-table-style-10 .price-list {margin-bottom: 25px;}
+.price-table-style-10 .price-list li {margin-bottom: 10px;font-size: 14px;}
+.price-table-style-10 .price-list li:last-child {margin-bottom: 0px;}
+.price-table-style-10 .primary-button {padding: 10px 30px;display: inline-block;text-transform: capitalize;text-align: center;font-weight: 500;border-radius: 5px;background: #265bfb;color: #fff;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;-webkit-box-shadow: 0 5px 20px 0 rgba(38, 91, 251, 0.3);box-shadow: 0 5px 20px 0 rgba(38, 91, 251, 0.3);}
+.price-table-style-10 .primary-button:hover {background: #043dea;color: #fff;-webkit-box-shadow: 0 10px 20px 0 rgba(38, 91, 251, 0.4);box-shadow: 0 10px 20px 0 rgba(38, 91, 251, 0.4);-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-10 .default-button {padding: 10px 30px;display: inline-block;text-transform: capitalize;-webkit-transition: all 0.25s linear;transition: all 0.25s linear;text-align: center;border-radius: 5px;background: transparent;border: 2px solid #fff;color: #fff;}
+.price-table-style-10 .default-button:hover {background: #fff;color: #265bfb;-webkit-transform: translateY(-5px);transform: translateY(-5px);}
+.price-table-style-10.active {background: #265bfb;-webkit-box-shadow: 0 20px 49px 0 rgba(38, 91, 251, 0.35);box-shadow: 0 20px 49px 0 rgba(38, 91, 251, 0.35);}
+.price-table-style-10.active .price-badge {background: #fff;color: #265bfb;}
+.price-table-style-10.active .price-badge::after {border-color: #fff transparent #fff #fff;}
+.price-table-style-10.active .price-title h4 {color: #fff;}
+.price-table-style-10.active .price-icon {border-bottom: 5px solid #fff;}
+.price-table-style-10.active .price-text h2 {color: #fff !important;}
+.price-table-style-10.active .price-list li {color: #fff;}
